@@ -1,12 +1,183 @@
-:root{
-  font-family: "Alice", serif;
+:root {
+  font-family: "Open Sans", serif;
 }
 
-#container{
+#container {
   width: 1120px;
   margin: 88px auto;
 }
 
-header{
+
+.esquerda {
+  padding: 0px;
+}
+
+
+header {
   margin-bottom: 40px;
+
+}
+
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+.imgdescription {
+  margin-top: 4px;
+}
+
+
+
+.textdescription {
+  text-align: center;
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic;
+  margin-top: 24px;
+  margin-bottom: 4px;
+  color: #333333;
+}
+
+
+.divider {
+  border: 1px solid #D9D9D9;
+  margin: 40px 0px;
+  position: center;
+}
+
+.title {
+  margin: 64px 0px 64px 0px;
+}
+
+
+.headline {
+  color: #E1624F;
+  line-height: 22px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0px 0px 2px 0px;
+}
+
+h1 {
+  margin: 8px 0px 0px 0px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #1B1B1B;
+
+}
+
+.firstp {
+  margin: 0px;
+  color: #333333;
+}
+
+.cardtravel {
+  padding: 0px 0px 48px 0px;
+}
+
+h2 {
+  margin: 0px 0px 8px 0px;
+  font-size: 32px;
+  color: #1B1B1B;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1B1B1B;
+  margin: 0px 0px 4px 0px;
+}
+
+p {
+  color: #333333;
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+
+.contentcard p {
+  margin: 4px 0px 0px 0px;
+  color: #333333;
+}
+
+.contentcard3 {
+  margin-top: 20px;
+}
+
+.dividerfinal {
+  border: 1px solid #D9D9D9;
+  margin: 40px 0px;
+  position: center;
+}
+
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+ol li h2 {
+  font-size: 28px;
+  color: #1b1b1b;
+  font-weight: bold;
+}
+
+ol li::marker {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: initial;
+  font-weight: bold;
+}
+
+ul li::marker {
+  font-size: 16px;
+  color: #1b1b1b;
+  font-weight: bold;
+}
+
+
+.bompara {
+  font-weight: bold;
+}
+
+.história {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.casais {
+  font-size: bold;
+  color: #591B98;
+}
+
+.familias {
+  font-size: bold;
+  color: #E5245E;
+}
+
+.orçamentos {
+  font-size: bold;
+  color: #E95E10;
+}
+
+footer img {
+  width: 16px;
+  vertical-align: middle;
+
+}
+
+footer {
+  margin-top: 65px;
+  text-align: center;
+}
+
+.rodape {
+  text-align: center;
 }
