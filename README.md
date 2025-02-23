@@ -11,7 +11,9 @@ Figma
 ## 💻 Projeto
 A página é um guia turístico para as principais partes turísticas da cidade de Busan, Coreia do Sul.
 
+## :memo: Licença
 
+Esse projeto está sob a licença MIT.    
 
 
 #### Projeto codificado e concluído por Marcos A. Wimmer!
